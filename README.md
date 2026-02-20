@@ -1,6 +1,6 @@
 # Weather Tracker
 
-Сервис забирает данные по [OpenWeatherMap API](https://openweathermap.org/api), раз в N минут опрашивает и сохраняет в данные базу. 
+Сервис забирает данные по [OpenWeatherMap API](https://openweathermap.org/api), раз в N минут опрашивает и сохраняет данные в базу. 
 Ошибки и таймауты пишутся в отдельный лог-файл.
 
 ## Быстрый старт
